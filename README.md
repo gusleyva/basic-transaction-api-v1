@@ -18,9 +18,9 @@ Maven
 Optional
 
 ```
-Git
-Code editor: VisualStudio or Eclipse
-Docker
+* Git
+* Code editor: VisualStudio or Eclipse
+* Docker
 ```
 
 ### Installing
@@ -37,7 +37,7 @@ Download or clone the project
 
 ```
 Download: Click on download link
-Clone: git clone [github url]
+Clone: git clone https://github.com/gusleyva/basic-transaction-api-v1.git
 ```
 
 Open a terminal window (bash/terminal) and move to the project
