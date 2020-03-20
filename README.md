@@ -119,7 +119,7 @@ http://localhost:8090/swagger-ui.html#/
 
 ## Authors
 
-* **Gustavo Leyva** - *Initial work*
+* **[Gustavo Leyva](https://www.linkedin.com/in/gustavo-leyva-b9493846/)** - *Initial work*
 
 
 ## License
