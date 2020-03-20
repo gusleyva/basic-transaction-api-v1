@@ -114,6 +114,8 @@ http://localhost:8090/swagger-ui.html#/
 
 * [Spring-boot](https://spring.io/projects/spring-boot) - The web framework used
 * [Maven](https://maven.apache.org/) - Dependency Management
+* [H2](h2database.com/html/main.html) - In-memory database
+* [Swagger](h2database.com/html/main.html) - Generate API-Docs
 
 ## Authors
 
